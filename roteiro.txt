@@ -1,0 +1,42 @@
+Tipos de Dados
+
+    Int: -5, 5, 10 , 500
+    Float: -5.4, 100,5
+    STR: "Joao" "python", "5" oq tiver entre aspas se torna uam STR(string)
+    Bool: False, True
+
+Saida de Dados
+
+    Print: oq sera mostrado ao usuario (app)
+    'f' antes das aspas atribui formataçao ao codigo assim sendo tudo entre chaves com valor atribuido sera alterrnavel
+    Input: atribuia a funçao de o usuario colocar seu nome
+
+Conversão de dados:
+
+    Operações aritimedicas[+ - / // % * ** ] (app1)
+    Os parenteses alterna a ordem da função
+
+    Operadores relacionais[> < == >= <=  != ] (app2)
+
+    Operadores lógicos [and, or, not] (app3)
+    Faz a relação entre dois valores boleanos (bool) ex para q o aluno seja aprovado na escola ele precise tirar 6
+    e ter uma presença maior de 75%
+   true and true, true and false, false or true
+   and- se um dos 2 lados for falso tornara a resposta falsa
+   or- so precisa de 1 true pra tronar a fração verdadeira
+   Not- inverte oq era true em false e oq era false em true
+    
+    Estrutura de decisão (app4)
+    decidir qual bloco de codigo sera executado usando "if"
+    elif- se a condião do if n for cumprida o elif analisa se a condiçao dele proprio é
+    else- se nem o if e nem o else forem verdadeiros o else conclui
+
+    Estruturas de repetiçao (app5)
+    While- vai ficar em loop até a condição do while se tornar falsa certo
+    while i <= 100: '''aqui aqui se atribui a funçao ao while de ir ate o 100 e finalizar a repetião'''
+
+    For (app6)
+    interrompe o looping usado quando sabe quando o looping sera interrompido
+    
+
+    Para escolher o numero de virgular q aparecem apos a "," sera usado round conforme o ex.: print(f'o resultado da divisao é {round (d, 3)}')
